@@ -1,8 +1,4 @@
 # Map-Based Cellular Automaton  
-
-![Simulation Screenshot](<img width="332" height="461" alt="image" src="https://github.com/user-attachments/assets/2ae56566-39ef-455a-98d0-7253de9e4fac" />
-) <!-- Replace with your own image -->
-
 <img width="332" height="461" alt="image" src="https://github.com/user-attachments/assets/938eac9d-241a-486b-99e8-e398cbef2cb1" />
 
 ---
@@ -51,7 +47,8 @@ Each team has three progressive **stages of influence**:
 
 The brighter the shade, the stronger the cell’s ties to its team and the greater its influence on neighboring cells.  
 
-![State Diagram](images/states.png) <!-- Replace with your own diagram -->
+<img width="428" height="367" alt="image" src="https://github.com/user-attachments/assets/6a1aa4d7-3184-4559-a803-6102d2946e00" />
+
 
 ---
 
@@ -104,7 +101,8 @@ The brighter the shade, the stronger the cell’s ties to its team and the great
 - Cell 8 becomes Blue (influence factor = 2).  
 - Cell 11 becomes Blue (influence factor = 1).  
 
-![Evolution Example](images/evolution.png) <!-- Replace with your evolution example screenshot -->
+Sample Evolution: 
+<img width="895" height="483" alt="image" src="https://github.com/user-attachments/assets/61c3d87c-9a7d-4800-ab71-25ddea971e27" />
 
 ---
 
