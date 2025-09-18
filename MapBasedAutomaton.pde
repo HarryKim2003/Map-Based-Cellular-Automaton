@@ -1,5 +1,3 @@
-// Communism in the Korean Peninsula //
-
 //Creator: Harry Kim//
 
 import processing.sound.*;
@@ -25,10 +23,6 @@ boolean playMusic = false; // If you turn this on, it will play some music. HOWE
 //READ ME READ ME READ ME READ ME 
 // To set the initial distribution of Communism/Capitalistm, hit the LEFT button to place Capitalist states, and hit the RIGHT button to place Communist states.
 // If you wish to play God and place more Communists and Capitalists around the country, feel free to do so. 
-
-// TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON TURN SOUNDS ON 
-// Also, code may take a few seconds to load due to the music files. 
-
 
 //Some Variables that will be used in the future. 
 float cellSize;        
@@ -369,3 +363,4 @@ void landDetermine() {
   }  
   updatePixels();
 }
+
