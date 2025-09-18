@@ -3,6 +3,8 @@
 ![Simulation Screenshot](<img width="332" height="461" alt="image" src="https://github.com/user-attachments/assets/2ae56566-39ef-455a-98d0-7253de9e4fac" />
 ) <!-- Replace with your own image -->
 
+<img width="332" height="461" alt="image" src="https://github.com/user-attachments/assets/938eac9d-241a-486b-99e8-e398cbef2cb1" />
+
 ---
 
 ## Project Description  
